@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma
 
-    - pizzas (to do)
-    - sauces (to do)
+    - pizas (to do)
+    - suaces (to do)
     - spreads (to do)
